@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "First Backend Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjay-3797/NodeJS.git"
+  },
+  "author": "Sanjay G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjay-3797/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Sanjay-3797/NodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
