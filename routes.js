@@ -40,4 +40,4 @@ const requestHandler = (req, res) => {
   }
 };
 
-exports = requestHandler;
+exports.handler = requestHandler;
